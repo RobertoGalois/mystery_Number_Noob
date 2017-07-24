@@ -35,8 +35,8 @@ int		main(void)
 {
 	signed short	number;
 	signed short	player_choice;
-	signed int		count;
-	char			*plural;
+	signed int	count;
+	char		*plural;
 
 	plural = "s";
 	count = 0;
