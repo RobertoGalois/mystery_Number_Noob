@@ -31,7 +31,7 @@ int 	gen_number()
 /*
 ** Main..	
 */
-int		main(void)
+int	main(void)
 {
 	signed short	number;
 	signed short	player_choice;
